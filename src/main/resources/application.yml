@@ -1,0 +1,8 @@
+spring:
+  main:
+    banner-mode: off
+logging:
+  level:
+    root: info
+    dev.akkinoc.spring.boot.orika: debug
+    example: debug
